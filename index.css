@@ -1,0 +1,73 @@
+body
+{
+    margin: 0px;
+    background-color:cornflowerblue;
+}
+
+.header
+{
+background-color: black;
+color: white;
+text-align: center;
+font-size: 30px;
+}
+
+
+.main-section
+{
+    background-color: darkcyan;
+    height: fit-content;
+    width: fit-content;
+    margin-top : 10%;
+    margin-left: 35%;
+}
+
+.encode-btn-div
+{
+    display: inline;
+}
+
+.decode-btn-div
+{
+    display: inline;
+}
+
+.encode-btn
+{
+    background-color: green;
+    height: 50px;
+    width: 200px;
+}
+
+.decode-btn
+{
+    background-color: thistle;
+    height: 50px;
+    width: 200px;
+}
+
+.output-section
+{
+    margin-top: 20px;
+}
+
+.output-msg
+{
+    width: 100%;
+    background-color: tomato;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bolder;
+}
+
+.textarea-input
+{
+    width: 400px;
+    height:150px;
+}
+
+.textarea-output
+{
+    width: 400px;
+    height:150px;
+}

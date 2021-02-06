@@ -18,8 +18,7 @@ font-size: 30px;
     background-color: darkcyan;
     height: fit-content;
     width: fit-content;
-    margin-top : 10%;
-    margin-left: 35%;
+    margin: 10% auto;
 }
 
 .encode-btn-div

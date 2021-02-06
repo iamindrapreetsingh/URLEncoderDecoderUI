@@ -13,14 +13,14 @@ btnEvent=(input)=>{
     {
     encodeBtn.style.backgroundColor="green";
     decodeBtn.style.backgroundColor="thistle";
-    outputMsg.innerHTML = "ENCODED STRING";
+    outputMsg.innerHTML = "ENCODED URL:";
     }
 
     else
     {
     encodeBtn.style.backgroundColor="thistle";
     decodeBtn.style.backgroundColor="green";
-    outputMsg.innerHTML = "DECODED STRING";
+    outputMsg.innerHTML = "DECODED URL:";
     }
 }
 
